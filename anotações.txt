@@ -1,0 +1,2 @@
+Diretorio correio de voz:
+/var/spool/asterisk/voicemail/
